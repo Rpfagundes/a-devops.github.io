@@ -1,0 +1,81 @@
+{
+    "navbar-slogan": "Specialist in Automotive DevOps Solutions",
+    "navbar-opt-1": "ABOUT US",
+    "navbar-opt-2": "SERVICES",
+    "navbar-opt-3": "CASE STUDIES",
+    "navbar-opt-4": "CARRIERS",
+    "navbar-opt-5": "BLOG",
+    "navbar-opt-6": "BOOK FREE CONSULTATION",
+
+
+    "header-hero": "Revolutionize Your Automotive Software Development with A-DevOps Solutions!",
+    "header-subtitle": "Automotive software development is tedious, costly, and time-consuming for manufacturers. Without A-DevOps solutions, organizations are missing out on the seamless integration, scalability, and security of a tailored solution to their workflow.<br/>A-DevOps Solutions provides innovative tools and services to ensure your automotive software development process is streamlined for optimized efficiency, security, stability, and maintainability.<br/><br/>Try our A-DevOps Solutions to accelerate your team's transformation into<br/>a faster and more agile delivery platform!",
+    "header-btn": "SEE MORE",
+    
+
+    "benefits-title": "Transform Your Team with A-DevOps Solutions: Automation, Efficiency, and Quality at Your Fingertips!",
+    "benefits-1": "Transform your team with A-DevOps solutions that prioritize automation, efficiency, and quality.",
+    "benefits-2": "Streamline development with a pre-configured, standardized environment and tools.",
+    "benefits-3": "Cut costs and time with embedded software tools that meet ISO26262 standards.",
+    "benefits-4": "Achieve faster, more agile delivery with our efficient CI/CD framework and quality metrics.",
+    "benefits-5": "Monitor key performance indicators (KPIs) with advanced visualization tools.",
+    "benefits-6": "Ensure quality software through adherence to ASPICE processes.",
+    "benefits-7": "Stay ahead of the curve with our commitment to staying up-to-date on industry developments and technical innovations.",
+
+
+    "services-title": "Optimize Your Automotive Software Development with Expert Tools and Services!",
+    "services-subtitle": "We are here to provide you with the best tools and services for software development environments and tools for the automotive industry.",
+
+    "services-1-title": "Build System Creation/Optimization",
+    "services-1-text": "Support in creating new Build environments / existing optimizations in the built environment.",
+
+    "services-2-title": "Software Quality Configuration",
+    "services-2-text": "Configuring static analysis tools, KPI Metric development, MISRA AGC & CERT settings.",
+
+    "services-3-title": "In-house Tools Development/Automation/ Evaluation",
+    "services-3-text": "Developing flashing scripts, Code generators, tools & scripts for data gathering and reports.",
+
+    "services-4-title": "ICI/CD Framework",
+    "services-4-text": "CI / CT / CD framework development integration with VC systems and Pipeline support for SW test.",
+
+    "services-5-title": "Professional Metric & Visualization Dashboards",
+    "services-5-text": "Get custom KPI development, database, and Grafana handling services for better visualization of your data.",
+
+    "services-6-title": "Streamline Your Requirements Gathering Process",
+    "services-6-text": "Take advantage of automated reports and plugins to streamline the process of collecting data from your requirements management tool.",
+
+    "services-7-title": "Professional Software Testing Solutions That You Can Trust",
+    "services-7-text": "Rely on us for CAPL, diagnostic tests automation, and other software testing solutions that prioritize quality.",
+
+    "services-8-title": "Advanced Containerization And Cloud Infrastructure Solutions",
+    "services-8-text": "Benefit from our expertise in deploying advanced Docker and K8s clusters and cloud-based migrations services.",
+
+    "services-9-title": "Comprehensive IT And Development Environment Services",
+    "services-9-text": "Get professional support with version rollout, security tests, infrastructure as code solutions, and more.",
+
+    "services-10-title": "Expert ISO26262 Qualification Services",
+    "services-10-text": "Utilize our tools qualification activity services to stay compliant with all necessary ISO26262 regulations.",
+
+
+    "aboutus-title": "About us",
+    "aboutus-text": "A-DevOps Solutions is an emerging provider of automotive DevOps solutions, offering a range of services including embedded software development, agile and continuous delivery practices, automation and micro-services, quality assurance and monitoring, and visualization tools for KPI monitoring.<br/><br/>Our team of experts has decades of experience in the industry and is dedicated to delivering customized solutions that meet the specific needs of each client. We are committed to improving efficiency, security, stability, and maintainability for our clients through our standardized development environments, tools, infrastructure, and processes.<br/><br/>Contact us today to learn more about how we can help your company succeed.",
+
+
+    "contact-title": "Take control of your development process with our Agile & Continuous Delivery options and automated infrastructure framework solutions. Start seeing results today by getting started now!",
+    "contact-btn": "BOOK FREE CONSULTATION",
+
+
+    "footer-text": "100 Lorem Ipsum Street, Berlim (123) 1234-5678",
+    "footer-copyright": "© Copyright A-DevOps 2023. All rights reserved.",
+
+    "footer-nav-title": "Navigation",
+    "footer-nav-1": "About Us",
+    "footer-nav-2": "Services",
+    "footer-nav-3": "Case Studies",
+    "footer-nav-4": "Carriers",
+    "footer-nav-5": "Contact",
+    "footer-nav-6": "Blog",
+
+    "footer-carriers-title": "Our Carriers"
+
+}

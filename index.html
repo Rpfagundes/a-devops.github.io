@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>A-DevOPS</title>
+  <meta name="description" content="Specialist in Automotive DevOps Solutions">
+  <link rel="icon" href="img/a-devops-favicon.svg">
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  <!-- Custom CSS -->
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-xl fixed-top">
+    <div class="container">
+      
+      <div class="d-flex flex-column gap-1">
+        <a href="#">
+          <img src="img/a-devops-logo.svg" alt="A-DevOps logo">
+        </a>
+        <span lng-tag="navbar-slogan"></span>
+      </div>
+        
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <input type="checkbox" id="menyAvPaa">
+        <label id="burger" for="menyAvPaa">
+            <div></div>
+            <div></div>
+            <div></div>
+        </label>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+        <ul class="navbar-nav align-items-center gap-4">
+          <li>
+            <a href="#" lng-tag="navbar-opt-1"></a>
+          </li>
+          
+          <li>
+            <a href="#" lng-tag="navbar-opt-2"></a>
+          </li>
+
+          <li>
+            <a href="#" lng-tag="navbar-opt-3"></a>
+          </li>
+
+          <li>
+            <a href="#" lng-tag="navbar-opt-4"></a>
+          </li>
+
+          <li>
+            <a href="#" lng-tag="navbar-opt-5"></a>
+          </li>
+
+          <li>
+            <a href="#" class="outline-btn" lng-tag="navbar-opt-6"></a>
+          </li>
+
+          <li>
+            <select id="lngSelect">
+              <option value="en">ENGLISH<img src="img/united-flag.svg"></option>
+              <option value="de">DEUTSCH</option>
+            </select>
+          </li>
+        </ul>
+      </div>
+      
+    </div>
+  </nav>
+
+
+  <!-- Header -->
+  <header class="header-bg d-flex flex-column justify-content-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 offset-md-2 d-flex flex-column align-items-center gap-3">
+          <h1 class="text-center" lng-tag="header-hero"></h1>
+          
+          <p class="subtitle text-center mb-3" lng-tag="header-subtitle"></p>
+
+          <a href="#" class="fill-btn" lng-tag="header-btn"></a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+  <!-- Benefits -->
+  <section class="benefits">
+    <div class="container">
+      <div class="row gap-5 gap-lg-0">
+        <div class="col-lg-6 d-flex flex-column gap-4">
+          <h2 class="mb-2" lng-tag="benefits-title"></h2>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-1"></p>
+          </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-2"></p>
+          </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-3"></p>
+          </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-4"></p>
+          </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-5"></p>
+          </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-6"></p>
+          </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <i class="fa-solid fa-square-check"></i>
+            <p lng-tag="benefits-7"></p>
+          </div>
+        </div>
+
+        <div class="col-lg-6 align-self-center text-center">
+          <img src="img/img-1.jpg" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Services -->
+  <section class="marine-bg">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-lg-8 offset-lg-2 text-center">
+          <h2 class="mb-3" lng-tag="services-title"></h2>
+          <p lng-tag="services-subtitle"></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex">
+      <div class="drag-carousel">
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-1-title"></h3>
+          <p lng-tag="services-1-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-2-title"></h3>
+          <p lng-tag="services-2-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-3-title"></h3>
+          <p lng-tag="services-3-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-4-title"></h3>
+          <p lng-tag="services-4-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-5-title"></h3>
+          <p lng-tag="services-5-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-6-title"></h3>
+          <p lng-tag="services-6-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-7-title"></h3>
+          <p lng-tag="services-7-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-8-title"></h3>
+          <p lng-tag="services-8-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-9-title"></h3>
+          <p lng-tag="services-9-text"></p>
+        </div>
+
+        <div class="col-auto drag-carousel-item">
+          <h3 class="mb-2" lng-tag="services-10-title"></h3>
+          <p lng-tag="services-10-text"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+      
+  <!-- About us -->
+  <section class="white-banner">
+    <div class="container">
+      <div class="row flex-lg-row flex-column-reverse gap-5 gap-lg-0">
+        <div class="col-lg-6 align-self-center text-center">
+          <img src="img/img-2.jpg" class="img-fluid">
+        </div>
+
+        <div class="col-lg-6 d-flex flex-column justify-content-center gap-3">
+          <h2 lng-tag="aboutus-title"></h2>
+          <p lng-tag="aboutus-text"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Contact -->
+  <section class="contact-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 d-flex flex-column align-items-start gap-4">
+          <h4 class="mb-2" lng-tag="contact-title"></h4>
+
+          <a href="#" class="fill-btn" lng-tag="contact-btn"></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row justify-content-between text-center text-lg-start mb-5 mb-lg-0">
+        <div class="col-lg-3 mb-5 mb-lg-0 d-flex flex-column justify-content-between">
+          <div>
+            <a href="#">
+              <img src="img/a-devops-logo.svg" alt="A-DevOps logo" class="mb-4">
+            </a>
+            <p lng-tag="footer-text"></p>
+          </div>
+
+          <p class="copyright d-none d-lg-block" lng-tag="footer-copyright"></p>
+        </div>
+    
+        <div class="col-lg-auto mb-5 mb-lg-0">
+          <h5 class="mb-4" lng-tag="footer-nav-title"></h5>
+
+          <ul class="nav flex-column">
+            <li class="nav-item mb-3">
+              <a href="#" class="nav-link subtitle p-0" lng-tag="footer-nav-1"></a>
+            </li>
+            <li class="nav-item mb-3">
+              <a href="#" class="nav-link subtitle p-0" lng-tag="footer-nav-2"></a>
+            </li>
+            <li class="nav-item mb-3">
+              <a href="#" class="nav-link subtitle p-0" lng-tag="footer-nav-3"></a>
+            </li>
+            <li class="nav-item mb-3">
+              <a href="#" class="nav-link subtitle p-0" lng-tag="footer-nav-4"></a>
+            </li>
+            <li class="nav-item mb-3">
+              <a href="#" class="nav-link subtitle p-0" lng-tag="footer-nav-5"></a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link subtitle p-0" lng-tag="footer-nav-6"></a>
+            </li>
+          </ul>
+        </div>
+    
+        <div class="col-lg-auto mb-5 mb-lg-0">
+          <h5 class="mb-4">Contact</h5>
+
+          <ul class="nav flex-column">
+            <li class="nav-item mb-3">
+              <a href="#" target="_blank" class="nav-link subtitle p-0">contact@adevops.com</p>
+            </li>
+            <li class="nav-item mb-3">
+              <a href="#" target="_blank" class="nav-link subtitle p-0">(123) 1234-5678</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" target="_blank" class="nav-link subtitle p-0">
+                <i class="fa-brands fa-linkedin"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+    
+        <div class="col-lg-3">
+          <h5 class="mb-4" lng-tag="footer-carriers-title">Our Carriers</h5>
+
+          <ul class="nav flex-column">
+            <li class="nav-item mb-3">
+              <a href="https://www.google.com/maps/place/SPACE+SHACK+Coworking/@52.4258766,13.3888347,11.25z/data=!3m1!5s0x47a85a81087a350b:0x3722f0468bb134b4!4m5!3m4!1s0x47a85040fa518d9b:0xa1978d09c6ff0a56!8m2!3d52.4867577!4d13.3556217" target="_blank" class="nav-link d-flex flex-column gap-1 p-0">
+                <p><strong>Germany</strong></p>
+                <p>A-DevOps Solutons AAS GmbH Akazienstraße 3a 10823 Berlin</p>
+              </a>
+            </li>
+            <li class="nav-item mb-3">
+              <a href="https://www.google.com/maps/search/A-402,+Pune+IT+Park,+34+Aundh+Road+Bhau+Patil+Marg.+Pune+-411020/@18.5653291,73.8296416,18z/data=!3m1!4b1" target="_blank" class="nav-link d-flex flex-column gap-1 p-0">
+                <p><strong>India</strong></p>
+                <p>A-402, Pune IT Park, 34 Aundh Road Bhau Patil Marg. Pune -411020</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://www.google.com/maps/place/Al+Hamra+Village+-+Ras+al-Khaimah+-+Emirados+%C3%81rabes+Unidos/@25.6920805,55.7663653,15z/data=!3m1!4b1!4m10!1m2!2m1!1sADevOps+Solutions+AAS+International+FZ-LLC+FDRK3178+Compass+Building,+Al+Shohada+Road,+AL+Hamra+Industrial+Zone-FZ,+Ras+Al+Khaimah!3m6!1s0x3ef60a40dad92d41:0xdd82945c62e7d307!8m2!3d25.6919474!4d55.7828528!15sCoIBQURldk9wcyBTb2x1dGlvbnMgQUFTIEludGVybmF0aW9uYWwgRlotTExDIEZEUkszMTc4IENvbXBhc3MgQnVpbGRpbmcsIEFsIFNob2hhZGEgUm9hZCwgQUwgSGFtcmEgSW5kdXN0cmlhbCBab25lLUZaLCBSYXMgQWwgS2hhaW1haJIBDHN1YmxvY2FsaXR5MeABAA!16s%2Fg%2F122dl4tc" target="_blank" class="nav-link d-flex flex-column gap-1 p-0">
+                <p><strong>United Arab Emirates</strong></p>
+                <p>ADevOps Solutions AAS International FZ-LLC FDRK3178 Compass Building, Al Shohada Road, AL Hamra Industrial Zone-FZ, Ras Al Khaimah</p>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row">
+        <p class="copyright text-center d-block d-lg-none" lng-tag="footer-copyright"></p>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="js/translate.js"></script>
+  <script src="js/change-language.js"></script>
+  <script src="js/drag-carousel.js"></script>
+
+</body>
+
+</html>

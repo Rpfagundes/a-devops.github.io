@@ -1,0 +1,81 @@
+{
+    "navbar-slogan": "Spezialist für Automotive DevOps-Lösungen",
+    "navbar-opt-1": "ÜBER UNS",
+    "navbar-opt-2": "DIENSTLEISTUNGEN",
+    "navbar-opt-3": "FALLSTUDIEN",
+    "navbar-opt-4": "TRÄGER",
+    "navbar-opt-5": "BLOGGEN",
+    "navbar-opt-6": "KOSTENLOSE BERATUNG BUCHEN",
+
+
+    "header-hero": "Eure Embedded-Partner für AutoMotive DevOps-Lösungen",
+    "header-subtitle": "Revolutionieren Sie Ihre Automobilsoftware-Entwicklung mit A-DevOps Solutions!<br/>Die Automobilsoftware-Entwicklung ist für Hersteller mühsam, kostspielig und zeitaufwendig. Ohne A-DevOps-Lösungen verpassen Organisationen die nahtlose Integration, Skalierbarkeit und Sicherheit einer maßgeschneiderten Lösung für ihren Arbeitsablauf.<br/>A-DevOps Solutions bietet innovative Werkzeuge und Dienstleistungen, um sicherzustellen, dass Ihr Automobilsoftware-Entwicklungsprozess optimal auf Effizienz, Sicherheit, Stabilität und Wartbarkeit ausgerichtet ist.<br/>Probieren Sie unsere A-DevOps Solutions aus, um den Wandel Ihres Teams in eine schnellere und agilere Lieferplattform zu beschleunigen!",
+    "header-btn": "MEHR SEHEN",
+    
+
+    "benefits-title": "Verwandle dein Team mit A-DevOps Solutions: Automatisierung, Effizienz und Qualität zum Greifen nah!",
+    "benefits-1": "Verwandle dein Team mit A-DevOps-Lösungen, die Automatisierung, Effizienz und Qualität priorisieren.",
+    "benefits-2": "Vereinfache die Entwicklung mit einer vorkonfigurierten, standardisierten Umgebung und Werkzeugen.",
+    "benefits-3": "Spare Kosten und Zeit mit embedded Software-Tools, die den ISO26262-Standards entsprechen.",
+    "benefits-4": "Erreiche schnellere, agilere Lieferungen mit unserem effizienten CI/CD-Framework und Qualitätsmetriken.",
+    "benefits-5": "Überwache wichtige Leistungskennzahlen (KPIs) mit fortgeschrittenen Visualisierungswerkzeugen.",
+    "benefits-6": "Stelle die Qualität der Software durch die Einhaltung von ASPICE-Prozessen sicher.",
+    "benefits-7": "Bleibe der Kurve voraus mit unserem Engagement für die Aktualisierung von Branchenentwicklungen und technischen Innovationen.",
+
+
+    "services-title": "Optimiere deine Automobilsoftware-Entwicklung mit Expertenwerkzeugen und -dienstleistungen!",
+    "services-subtitle": "Wir sind hier, um dir die besten Werkzeuge und Dienstleistungen für Softwareentwicklungsumgebungen und -werkzeuge für die Automobilindustrie zu bieten.",
+
+    "services-1-title": "Erstellung/Optimierung von Build-Systemen",
+    "services-1-text": "Unterstützung bei der Erstellung neuer Build-Umgebungen/bestehender Optimierungen in der erstellten Umgebung.",
+
+    "services-2-title": "Software-Qualitätskonfiguration",
+    "services-2-text": "Konfiguration von Staticanalysetools, Entwicklung von KPI-Metriken, Einstellungen von MISRA AGC & CERT.",
+
+    "services-3-title": "Entwicklung/ Automatisierung/ Evaluierung von Inhouse-Tools",
+    "services-3-text": "Entwicklung von Flashing-Skripten, Codegeneratoren, Tools & Skripten für Datenerfassung und -berichte.",
+
+    "services-4-title": "ICI/CD-Framework",
+    "services-4-text": "Entwicklung und Integration von CI/CT/CD-Frameworks mit VC-Systemen und Pipeline-Unterstützung für SW-Tests.",
+
+    "services-5-title": "Professionelle Metriken & Visualisierungsdashboards",
+    "services-5-text": "Erhalte maßgeschneiderte KPI-Entwicklung, Datenbank- und Grafana-Handlingsdienste für eine bessere Visualisierung deiner Daten.",
+
+    "services-6-title": "Vereinfache deinen Anforderungserfassungsprozess",
+    "services-6-text": "Nutze automatisierte Berichte und Plugins, um den Prozess der Datenerfassung aus deinem Anforderungsmanagement-Tool zu vereinfachen.",
+
+    "services-7-title": "Professionelle Softwaretestlösungen, denen Sie vertrauen können",
+    "services-7-text": "Vertrauenswürdige professionelle Softwaretests Verlass dich auf uns für CAPL, Diagnostiktestsautomatisierung und andere Softwaretests, die die Qualität priorisieren.",
+
+    "services-8-title": "Fortgeschrittene Containerisierung und Cloud-Infrastrukturlösungen",
+    "services-8-text": "Profitiere von unserem Expertenwissen bei der Bereitstellung fortgeschrittener Docker- und K8s-Cluster und Cloud-basierter Migrationsdienste.",
+
+    "services-9-title": "Umfassende IT- und Entwicklungsumgebungsdienste",
+    "services-9-text": "Erhalte professionelle Unterstützung bei der Versionenverteilung, Sicherheitstests, Infrastruktur-as-Code-Lösungen und mehr.",
+
+    "services-10-title": "Experten-ISO26262-Qualifizierungsdienste",
+    "services-10-text": "Nutze unsere Toolsqualifizierungsaktivitätsdienste, um mit allen erforderlichen ISO26262-Vorschriften konform zu bleiben.",
+
+
+    "aboutus-title": "Über uns",
+    "aboutus-text": "A-DevOps Solutions ist ein aufstrebender Anbieter von Automobil-DevOps-Lösungen und bietet eine Vielzahl von Dienstleistungen, darunter Embedded-Softwareentwicklung, agile und kontinuierliche Lieferpraktiken, Automatisierung und Microservices, Qualitätssicherung und Monitoring sowie Visualisierungswerkzeuge zur Überwachung von KPIs.<br/><br/>Unser Team von Experten verfügt über Jahrzehnte von Erfahrung in der Branche und ist darauf ausgerichtet, maßgeschneiderte Lösungen zu liefern, die den spezifischen Bedürfnissen jedes Kunden entsprechen. Wir sind darauf ausgerichtet, die Effizienz, Sicherheit, Stabilität und Wartbarkeit unserer Kunden durch unsere standardisierten Entwicklungsumgebungen, Werkzeuge, Infrastruktur und Prozesse zu verbessern.<br/><br/>Kontaktieren Sie uns heute, um mehr darüber zu erfahren, wie wir Ihrem Unternehmen zum Erfolg verhelfen können.",
+
+
+    "contact-title": "Machen Sie jetzt den ersten Schritt und erkunden Sie unsere Agile & Continuous Delivery-Optionen und automatisierte Infrastruktur-Frameworks-Lösungen!",
+    "contact-btn": "KOSTENLOSE BERATUNG BUCHEN",
+
+
+    "footer-text": "100 Lorem Ipsum Street, Berlim (123) 1234-5678",
+    "footer-copyright": "© Urheberrecht A-DevOps 2023. Alle Rechte vorbehalten.",
+
+    "footer-nav-title": "Navigation",
+    "footer-nav-1": "Über uns",
+    "footer-nav-2": "Dienstleistungen",
+    "footer-nav-3": "Fallstudien",
+    "footer-nav-4": "Träger",
+    "footer-nav-5": "Kontakt",
+    "footer-nav-6": "Bloggen",
+
+    "footer-carriers-title": "Unsere Spediteure"
+
+}
