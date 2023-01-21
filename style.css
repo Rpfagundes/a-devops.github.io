@@ -400,11 +400,7 @@ li i:hover{
 
 	
 	/* Typography mobile */
-	h1{
-		font-size: 2rem;
-	}
-	
-	h2, h4{
+	h1, h2, h4{
 		font-size: 1.5rem;
 	}
 	
@@ -413,17 +409,22 @@ li i:hover{
 	}
 	
 	p, .subtitle{
-		font-size: 1rem;
+		font-size: 0.875rem;
 	}
 	
 	span{
 		font-size: 0.75rem;
 	}
 	
+	/* Buttons */
 	.fill-btn, .outline-btn{
 		font-size: 1.125rem;
 	}
 
+	/* Header */
+	.header-bg{
+		padding: 141.39px 0 64px 0;
+	}
 
 	/* Contact */
 	.contact-bg{
